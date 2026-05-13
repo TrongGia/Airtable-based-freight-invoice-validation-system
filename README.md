@@ -10,7 +10,7 @@ The system uses relational tables and automation workflows to validate freight i
 Relational Airtable database design
 
 
-Historical FX rate mapping
+Historical exchange rate mapping
 
 
 Automated invoice validation
